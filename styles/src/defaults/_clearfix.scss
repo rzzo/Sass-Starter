@@ -5,10 +5,10 @@
 .clearfix {
   *zoom: 1;
   &:before {
-    @extend %clear;
+    @extend %clearfix;
   }
   &:after {
-    @extend %clear;
+    @extend %clearfix;
     clear: both;
   }
 }

@@ -3,10 +3,7 @@
 # @author Travis Bredehoft
 
 ## Sass Starter
-style.min.css
-style.unprefixed.css
-style.prefixed.css
-scripts.min.js
+config.codekit
 
 ## Sass
 .sass-cache
